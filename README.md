@@ -4,6 +4,9 @@
 
 Maintained by [Nueramarcos](https://github.com/Nueramarcos). See [FORK.md](FORK.md).
 
+[![Fork Smoke](https://github.com/Nueramarcos/mlx/actions/workflows/fork-smoke.yml/badge.svg)](https://github.com/Nueramarcos/mlx/actions/workflows/fork-smoke.yml)
+
+
 [**Quickstart**](#quickstart) | [**Installation**](#installation) |
 [**Documentation**](https://ml-explore.github.io/mlx/build/html/index.html) |
 [**Examples**](#examples)
