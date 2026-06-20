@@ -1,5 +1,9 @@
 # MLX
 
+## Fork Notice
+
+Maintained by [Nueramarcos](https://github.com/Nueramarcos). See [FORK.md](FORK.md).
+
 [**Quickstart**](#quickstart) | [**Installation**](#installation) |
 [**Documentation**](https://ml-explore.github.io/mlx/build/html/index.html) |
 [**Examples**](#examples)
