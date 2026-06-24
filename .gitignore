@@ -80,3 +80,6 @@ uv.lock
 .cache/
 # vim
 *.swp
+.aider*
+.issue-agent-venv/
+.venv/
