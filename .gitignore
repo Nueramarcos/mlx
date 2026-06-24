@@ -83,3 +83,4 @@ uv.lock
 .aider*
 .issue-agent-venv/
 .venv/
+*.pyc
